@@ -5,6 +5,7 @@ This is my version of the [arxiv-style](https://github.com/kourgeorge/arxiv-styl
 ## Changes
 
 - **Google Scholar Icon Macro**: Added a macro that generates a Google Scholar icon next to the author's name, which links to the author's Google Scholar profile (similar to ORCID icons).
+- **Colored References**: References (including papers, equations, tables, etc.) are now displayed in color for better distinction.
 - **Acknowledgments Section Macro**: Added a macro for the acknowledgments section for easier formatting.
 
 ### Future Improvements
